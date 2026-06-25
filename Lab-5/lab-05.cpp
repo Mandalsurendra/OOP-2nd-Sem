@@ -1,5 +1,5 @@
 //WAP to overload binary operator to compare objs to work on user defined data type named dist that represents feet and inch.
-//add when obj1<obj2
+//add when obj1<ll 
 //subract when obj1>obj2
 #include<iostream>
 using namespace std;
